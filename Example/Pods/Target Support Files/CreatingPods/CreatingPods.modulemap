@@ -1,0 +1,6 @@
+framework module CreatingPods {
+  umbrella header "CreatingPods-umbrella.h"
+
+  export *
+  module * { export * }
+}

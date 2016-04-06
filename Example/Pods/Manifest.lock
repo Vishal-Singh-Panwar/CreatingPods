@@ -1,0 +1,14 @@
+PODS:
+  - CreatingPods (0.1.0)
+
+DEPENDENCIES:
+  - CreatingPods (from `../`)
+
+EXTERNAL SOURCES:
+  CreatingPods:
+    :path: ../
+
+SPEC CHECKSUMS:
+  CreatingPods: 426087eeadee827623453ea5b2730546d9ceb43d
+
+COCOAPODS: 0.39.0

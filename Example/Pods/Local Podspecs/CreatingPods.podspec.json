@@ -1,0 +1,25 @@
+{
+  "name": "CreatingPods",
+  "version": "0.1.0",
+  "summary": "A short description of CreatingPods.",
+  "description": "",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/CreatingPods",
+  "license": "MIT",
+  "authors": {
+    "Vishal Singh Panwar": "vishal.panwar@mutualmobile.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/CreatingPods.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "CreatingPods": [
+      "Pod/Assets/*.png"
+    ]
+  }
+}
