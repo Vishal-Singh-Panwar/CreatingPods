@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!  
   s.description      = <<-DESC
-For learning purpose.
+For learning purpose. Trying pods with various options to understand podspec.
                        DESC
 
   s.homepage         = "https://github.com/Vishal-Singh-Panwar/CreatingPods"

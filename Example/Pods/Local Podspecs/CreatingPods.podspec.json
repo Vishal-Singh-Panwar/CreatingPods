@@ -1,15 +1,15 @@
 {
   "name": "CreatingPods",
   "version": "0.1.0",
-  "summary": "A short description of CreatingPods.",
-  "description": "",
-  "homepage": "https://github.com/<GITHUB_USERNAME>/CreatingPods",
+  "summary": "Trying pods before creating pods for actual control.",
+  "description": "For learning purpose. Trying pods with various options to understand podspec.",
+  "homepage": "https://github.com/Vishal-Singh-Panwar/CreatingPods",
   "license": "MIT",
   "authors": {
     "Vishal Singh Panwar": "vishal.panwar@mutualmobile.com"
   },
   "source": {
-    "git": "https://github.com/<GITHUB_USERNAME>/CreatingPods.git",
+    "git": "https://github.com/Vishal-Singh-Panwar/CreatingPods.git",
     "tag": "0.1.0"
   },
   "platforms": {

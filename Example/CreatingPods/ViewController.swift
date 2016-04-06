@@ -7,11 +7,13 @@
 //
 
 import UIKit
-
+import CreatingPods
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        let creatingPods = CreatingPods()
+        creatingPods.creatingPods("Hi")
         // Do any additional setup after loading the view, typically from a nib.
     }
 
